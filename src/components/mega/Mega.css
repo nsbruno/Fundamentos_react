@@ -1,0 +1,31 @@
+.Mega label {
+    margin-right: 10px;    
+}
+
+.Mega h3 {  
+    font-size: 1.4rem;    
+}
+
+.Mega ul {  
+    display: flex;
+    flex-direction: row;     
+    justify-content: space-between;
+    padding-right: 20px;   
+}
+
+.Mega li {
+    display: block;
+    align-items: center;
+    padding-top: 10px;
+    height: 35px;
+    width: 45px;
+    border-radius: 50%;
+    background-color: #1e82df;
+    color: #fff;
+   
+}
+
+.Mega input {
+    font-size: 1.4rem;
+    width: 50px;
+}
